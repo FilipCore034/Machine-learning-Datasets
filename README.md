@@ -10,7 +10,7 @@ To download the entire text collection, simply follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   https://github.com/FilipCore034/Machine-learning-Datasets.git
+   git clone https://github.com/FilipCore034/Machine-learning-Datasets.git
    ```
 2. Navigate to the cloned repository:
    ```bash 
