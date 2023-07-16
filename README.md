@@ -41,7 +41,7 @@ Contributions to this text collection are highly appreciated! If you have additi
     Submit a pull request, providing a detailed explanation of the changes you made and why they should be included.
 
 Your contributions will help expand the collection and make it even more valuable for the community.
-Potential Uses
+## Potential Uses
 
 The Text Collection can serve various purposes, including:
 
@@ -55,6 +55,6 @@ The Text Collection can serve various purposes, including:
 
     Generating test data for software development and testing
 
-Disclaimer
+## Disclaimer
 
 > The content provided in this collection is sourced from various places and is intended for non-profit, educational, and informational purposes only. The repository owner does not claim ownership of the content and assumes no responsibility for any usage beyond these stated purposes.
