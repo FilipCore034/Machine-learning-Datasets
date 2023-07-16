@@ -1,4 +1,4 @@
-# CoreGPT datasets
+#  Experimental Machine learning datasets
 This curated collection features a short range of diverse text files sourced from various places. The primary goal is to provide you with access to abundant textual content for educational, research, and non-profit purposes.
 
 ## Usage
@@ -10,11 +10,11 @@ To download the entire text collection, simply follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   https://github.com/FilipCore034/core-gpt-data.git
+   https://github.com/FilipCore034/Machine-learning-Datasets.git
    ```
 2. Navigate to the cloned repository:
    ```bash 
-   cd core-gpt-data
+   cd Machine-learning-Datasets
    ```
 ### Merging Text Files (Optinal)
 
