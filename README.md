@@ -22,40 +22,39 @@ To download the entire text collection, simply follow these steps:
 The repository provides a handy script that enables you to merge all the text files into a single, comprehensive file. To merge the files, follow these steps:
 
 1. Ensure that Python is installed on your machine.
-
 2. Execute the provided script to merge the text files:
     ```bash
-    python merge_files.py
+    .\merge_files.ps1
     ```
     This script combines all the text files in the repository into a single file named merged_text.txt.
 
-3. After the script completes, you will find the merged text file in the repository's root directory (text-collection/merged_text.txt).
+3. After the script completes, you will find the merged text file in the repository's root directory (text-collection/merged.txt).
 
 ## Contributing
 
 Contributions to this text collection are highly appreciated! If you have additional text files that you believe would enrich the collection, please follow these guidelines:
 
--   Fork the repository and create a new branch for your contributions.
+    Fork the repository and create a new branch for your contributions.
 
--   Organize your text files by placing them in the appropriate category or creating a new category if needed.
+    Organize your text files by placing them in the appropriate category or creating a new category if needed.
 
--   Submit a pull request, providing a detailed explanation of the changes you made and why they should be included.
+    Submit a pull request, providing a detailed explanation of the changes you made and why they should be included.
 
 Your contributions will help expand the collection and make it even more valuable for the community.
 Potential Uses
 
 The Text Collection can serve various purposes, including:
 
--   Language modeling and natural language processing research
+    Language modeling and natural language processing research
 
--   Training machine learning models for text generation
+    Training machine learning models for text generation
 
--   Educational and academic studies
+    Educational and academic studies
 
--   Data analysis and visualization projects
+    Data analysis and visualization projects
 
--   Generating test data for software development and testing
+    Generating test data for software development and testing
 
-# Disclaimer
+Disclaimer
 
 > The content provided in this collection is sourced from various places and is intended for non-profit, educational, and informational purposes only. The repository owner does not claim ownership of the content and assumes no responsibility for any usage beyond these stated purposes.
