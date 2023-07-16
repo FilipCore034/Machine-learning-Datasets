@@ -1,5 +1,4 @@
-# Text Collection
-
+# CoreGPT datasets
 This curated collection features a short range of diverse text files sourced from various places. The primary goal is to provide you with access to abundant textual content for educational, research, and non-profit purposes.
 
 ## Usage
