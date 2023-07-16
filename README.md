@@ -44,15 +44,15 @@ Your contributions will help expand the collection and make it even more valuabl
 
 The Text Collection can serve various purposes, including:
 
-    Language modeling and natural language processing research
+>   Language modeling and natural language processing research
 
-    Training machine learning models for text generation
+>   Training machine learning models for text generation
 
-    Educational and academic studies
+>  Educational and academic studies
 
-    Data analysis and visualization projects
+>  Data analysis and visualization projects
 
-    Generating test data for software development and testing
+>  Generating test data for software development and testing
 
 ## Disclaimer
 
